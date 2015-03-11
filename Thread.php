@@ -1,4 +1,5 @@
 <?php
+namespace Threading;
 
 /**
  * Responsible for creating threads
