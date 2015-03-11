@@ -6,15 +6,16 @@ namespace Threading;
  * 
  * @author Nathan O Wesly
  */ 
+ 
 class Thread
 {
-	/**
-	 * Init a thread
-	 */ 
-	public function __construct()
-	{
-		return "worker";
-	}
+    /**
+     * Init a thread
+     */ 
+    public function __construct()
+    {
+        return "worker";
+    }
     
     /**
      * Stops a worker thread
