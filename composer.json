@@ -16,7 +16,7 @@
             "Threading\\": "src/"
         },
         "psr-0": {
-            "threading": "src/Utils/"
+            "threading": "src/library/"
         }
     }
 }
