@@ -1,6 +1,6 @@
 {
     "name": "nathan/threading",
-    "description": "A multi-threading library for PHP",
+    "description": "A small multi-threading library for PHP",
     "license": "MIT",
     "authors": [
         {
