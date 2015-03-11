@@ -1,0 +1,21 @@
+{
+    "name": "nathan/threading",
+    "description": "A multi-threading library for PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nathan O Wesly",
+            "email": "nathan.o.wesley@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {"php": ">=5.4.0"},
+    "autoload": {
+        "psr-4": {
+            "Punto\\": "src/"
+        },
+        "psr-0": {
+            "Punto": "src/Utils/"
+        }
+    }
+}
