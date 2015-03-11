@@ -27,6 +27,11 @@ class Thread
 		return "killed";
 	}
 
+	public function getWorkerHandler()
+	{
+		return 'Worker handler';
+	}
+
 	public function __destruct()
 	{
 		$this->kill();
