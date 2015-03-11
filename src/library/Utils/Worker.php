@@ -1,4 +1,6 @@
 <?php
+namespace Utils;
+
 class Worker
 {
 	public function doWork()
