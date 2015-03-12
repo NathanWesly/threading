@@ -19,5 +19,5 @@
             "": "src/library/"
         }
     },
-    "bin":["bin/thread"]
+    "bin":["bin/thread","bin/thread.dll"]
 }
