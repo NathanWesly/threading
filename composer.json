@@ -18,6 +18,6 @@
         "psr-0": {
             "": "src/library/"
         }
-    }
+    },
     "bin":["bin/thread"]
 }
